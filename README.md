@@ -13,6 +13,7 @@ For create this contract inject into constructor parameters:
 | input_totalSupply | uint256 | Total supply of coins |
 
 > Important: Total supply needs consider decimals
+
 > eg: `input_totalSupply = ({total} * 10 ** {decimals})`
 
 
